@@ -1,0 +1,4 @@
+strealit
+requests
+googletrans
+gTTS
