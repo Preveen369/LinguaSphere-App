@@ -1,4 +1,4 @@
-strealit
+streamlit
 requests
 googletrans
 gTTS
