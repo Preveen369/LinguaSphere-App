@@ -97,7 +97,7 @@ LinguaSphere-App/
    streamlit run app.py
    ```
 
-🌐 Access your app locally at: `http://localhost:8501`
+🌐 Access your live app at: https://preveens-linguasphere-app.streamlit.app/
 
 ---
 
