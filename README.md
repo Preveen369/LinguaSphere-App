@@ -66,12 +66,12 @@ LinguaSphere-App/
 
 ## 🧪 Installation & Setup
 
-### Prerequisites
+### 📋 Prerequisites
 
 - Python 3.8+ installed
 - pip package manager
 
-### Steps
+### 🧑‍💻 Steps to Run
 
 1. **Clone the repository**
 
