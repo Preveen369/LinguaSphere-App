@@ -97,7 +97,7 @@ LinguaSphere-App/
    streamlit run app.py
    ```
 
-🌐 Access your live app at: https://preveens-linguasphere-app.streamlit.app/
+🌐 Access your app live at: https://preveens-linguasphere-app.streamlit.app/
 
 ---
 
