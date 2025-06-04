@@ -6,7 +6,7 @@
 ![APIs](https://img.shields.io/badge/APIs-GoogleTranslate%20%7C%20gTTS%20%7C%20MyMemory-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-**LinguaSphere-App** is a Python-based web application built with Streamlit, designed to assist language learners by providing seamless translation, text-to-speech, and language practice tools. Leveraging APIs like Google Translate, Google Text-to-Speech (gTTS), and MyMemory, this app offers an interactive platform for users to translate text, hear pronunciations, and enhance their language skills effortlessly.
+**LinguaSphere-App** is a Python-based web application built with Streamlit, designed to assist language learners by providing seamless translation, text-to-speech, and language practice tools like generating flashcards. Leveraging APIs like Google Translate, Google Text-to-Speech (gTTS), and MyMemory, this app offers an interactive platform for users to translate text, hear pronunciations, and enhance their language skills effortlessly.
 
 ---
 
