@@ -1,4 +1,4 @@
-# 🌐 LinguaSphere-App – Your Language Learning Companion
+# 🌍 LinguaSphere-App – Your Language Learning Companion
 
 ![Platform](https://img.shields.io/badge/Platform-Web-blue.svg)
 ![Tech](https://img.shields.io/badge/Frontend-Streamlit-orange.svg)
